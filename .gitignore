@@ -1,0 +1,5 @@
+# ignore all logs
+*.pyc
+env/
+db.sqlite3/
+
